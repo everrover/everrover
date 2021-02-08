@@ -1,7 +1,7 @@
-### Hi there 
+### Hi there 👋
 
-- I'm currently working on [**Numnious**](https://github.com/everrover/numinous) application
-- I'm currently learning NodeJS
+- 🔨 I'm currently working on [**Numnious**](https://github.com/everrover/numinous) application
+- 🌱 I'm currently learning NodeJS and JS deeply
 
 <!--
 **everrover/everrover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
