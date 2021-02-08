@@ -4,7 +4,7 @@
 - *KS app*
 - Social media app
 - My website
-- Journal application
+- Journal application - *Numinous*
 
 ### Programming and other languages
 <div style='display: flex; width: 100%; justify-content: center; flex-wrap: wrap;'>
