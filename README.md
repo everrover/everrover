@@ -1,7 +1,14 @@
 ### Hi there 👋
 
-- 🔨 I'm currently working on [**Numnious**](https://github.com/everrover/numinous) application
-- 🌱 I'm currently learning NodeJS and JS deeply
+- 🔨 I'm currently working on
+  - Building up my website and associated content.
+  - Deeply on algorithms and data structures, more specifically through leetcode
+  - A secret project
+- 🌱 I'm currently learning lot's of stuff such as 
+  - ReactJS
+  - Graph databases
+  - Some features on AWS
+- Fun fact: I love the earth
 
 <!--
 **everrover/everrover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
