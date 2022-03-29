@@ -1,15 +1,21 @@
-### Hi there 👋
+# Hi there 👋. Call me _Deyol_ please
 
-- 🔨 I'm currently working on
-  - Building up my website and associated content.
-  - Deeply on algorithms and data structures, more specifically through leetcode
-  - A secret project
-- 🌱 I'm currently learning lot's of stuff such as 
-  - ReactJS
-  - Graph databases
-  - Some features on AWS
-- Fun fact: I love the earth
+### 🔨 I'm currently working on
+- Building up some content on web-development and cybersecurity
+- Upskilling in cybersecurity
+- A DSA sprint consisting of x96 questions(3 of which are complete)
+### 🌱 I'm currently learning about
+- Cybersecurity with slight focus on _major security issues in web applications_
+- Elasticsearch - building and using search indexes
 
+Latest posts
+- [Mutation observer with react](https://everrover.com/articles/mutation-obs-react)
+- [Alien👽️ dictionary](https://everrover.com/articles/alien-dictionary)
+- [
+
+Fun fact: Keep a mug of beer close if I'm to meet you😏... and possibly tune in to some nightcore channels🎶🎵
+
+Do visit my [website](https://everrover.com). Also, you can find me on [LinkedIn](https://in.linkedin.com/in/abhishek-deyol-44a732171), [Twitter](https://twitter.com/everrover) and [Reddit](https://www.reddit.com/user/everrover_dev).
 <!--
 **everrover/everrover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
