@@ -11,7 +11,7 @@
 Latest posts
 - [Mutation observer with react](https://everrover.com/articles/mutation-obs-react)
 - [Alien👽️ dictionary](https://everrover.com/articles/alien-dictionary)
-- [
+- [Intersection ovserver with react](https://everrover.com/articles/intersection-observer)
 
 Fun fact: Keep a mug of beer close if I'm to meet you😏... and possibly tune in to some nightcore channels🎶🎵
 
