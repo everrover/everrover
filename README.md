@@ -8,7 +8,7 @@
 - Cybersecurity with slight focus on _major security issues in web applications_
 - Elasticsearch - building and using search indexes
 
-Latest posts
+## Latest posts
 - [Mutation observer with react](https://everrover.com/articles/mutation-obs-react)
 - [Alien👽️ dictionary](https://everrover.com/articles/alien-dictionary)
 - [Intersection ovserver with react](https://everrover.com/articles/intersection-observer)
