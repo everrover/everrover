@@ -13,7 +13,7 @@
 - [Alien👽️ dictionary](https://everrover.com/articles/alien-dictionary)
 - [Intersection ovserver with react](https://everrover.com/articles/intersection-observer)
 
-Fun fact: Keep a mug of beer close if I'm to meet you😏... and possibly tune in to some nightcore channels🎶🎵
+Fun fact: Keep a 🍺 close at hand if I'm to meet you😏... And possibly tune into some nightcore channels🎶🎵.
 
 Do visit my [website](https://everrover.com). Also, you can find me on [LinkedIn](https://in.linkedin.com/in/abhishek-deyol-44a732171), [Twitter](https://twitter.com/everrover) and [Reddit](https://www.reddit.com/user/everrover_dev).
 <!--
