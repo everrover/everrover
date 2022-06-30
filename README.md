@@ -1,12 +1,13 @@
 # Hi there 👋. Call me _Deyol_ please
 
 ### 🔨 I'm currently working on
-- Building up some content on web-development and cybersecurity
-- Upskilling in cybersecurity
-- A DSA sprint consisting of x96 questions(3 of which are complete)
+- Building up some content on web-development, DSA and distributed-systems design
+- Upskilling in DSA and distributed-systems design
+- A DSA sprint consisting of x256 questions([mount-kronos](https://github.com/everrover/mount-kronos))
 ### 🌱 I'm currently learning about
-- Cybersecurity with slight focus on _major security issues in web applications_
 - Elasticsearch - building and using search indexes
+- Architectural design of Kafka
+- Database design... with focus on SQL
 
 ## Latest posts
 - [Mutation observer with react](https://everrover.com/articles/mutation-obs-react)
