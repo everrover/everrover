@@ -2,7 +2,7 @@
 
 ### 🔨 I'm currently working on
 - Interiew prep: DSA and associated questions. Recorded in [`mount-kronos`](https://github.com/everrover/mount-kronos)
-- An event-driven chat application: [`smiling-octopus`](https://github.com/everrover/smiling-octopus)
+- An event-driven chat application: [`smiling-octopus`](https://github.com/everrover/smiling-octopus). Looking forward to collaborate on it.😁
 ### 🌱 I'm currently learning about
 - Elasticsearch and ELK stack - building and using search indexes
 - Docker and it's uses [`fortnight-docker`](https://github.com/everrover/smiling-octopus)
