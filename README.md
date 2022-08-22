@@ -1,13 +1,11 @@
 # Hi there 👋. Call me _Deyol_ please
 
 ### 🔨 I'm currently working on
-- Building up some content on web-development, DSA and distributed-systems design
-- Upskilling in DSA and distributed-systems design
-- A DSA sprint consisting of x256 questions([mount-kronos](https://github.com/everrover/mount-kronos))
+- Interiew prep: DSA and associated questions. Recorded in `mount-kronos`
+- An event-driven chat application: `
 ### 🌱 I'm currently learning about
-- Elasticsearch - building and using search indexes
-- Architectural design of Kafka
-- Database design... with focus on SQL
+- Elasticsearch and ELK stack - building and using search indexes
+- Docker and it's uses
 
 ## Latest posts
 - [Mutation observer with react](https://everrover.com/articles/mutation-obs-react)
@@ -16,7 +14,7 @@
 
 Fun fact: Keep a 🍺 close at hand if I'm to meet you😏... And possibly tune into some nightcore channels🎶🎵.
 
-Do visit my [website](https://everrover.com). Also, you can find me on [LinkedIn](https://in.linkedin.com/in/abhishek-deyol-44a732171), [Twitter](https://twitter.com/everrover) and [Reddit](https://www.reddit.com/user/everrover_dev).
+Do visit my [website](https://everrover.com). Also, you can find me on [LinkedIn](https://in.linkedin.com/in/abhishek-deyol-44a732171), [Twitter](https://twitter.com/everrover) and [Instagram](https://www.instagram.com/everrover).
 <!--
 **everrover/everrover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
