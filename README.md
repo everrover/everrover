@@ -12,6 +12,7 @@
   - Provide support for recently delivered feature and take it up to production
   - Resolve two existing bugs
   - #BullShite mgmt work
+- **#TechWriting** :: The state of AI, what essentially it is and why it's scary😱 x2
 
 > _**Finished recently:**_ 14th April 2023(from 1st April 2023)
 
