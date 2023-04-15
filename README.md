@@ -2,7 +2,7 @@
 
 ### 🔨 I'm currently working on and learning about🌱
 
-> _**Deadline:**_ 14th April 2023
+> _**Deadline:**_ 23rd April 2023
 
 - **#InterviewPrep**: x0/x8 design-topics(LLD&HLD)/DSA questions @[`mount-kronos`](https://github.com/everrover/mount-kronos) x8
 - **#DevWork** Learn about reactive-programming in Java & Spring x4
