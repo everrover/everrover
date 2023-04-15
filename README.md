@@ -4,15 +4,33 @@
 
 > _**Deadline:**_ 14th April 2023
 
-- **#InterviewPrep**: x16 design-topics(LLD&HLD)/DSA questions @[`mount-kronos`](https://github.com/everrover/mount-kronos)
-- **#DevWork** Learning about reactive-programming in Java & Spring
-- **#CSec** Working towards my first CTF
+- **#InterviewPrep**: x0/x8 design-topics(LLD&HLD)/DSA questions @[`mount-kronos`](https://github.com/everrover/mount-kronos) x8
+- **#DevWork** Learn about reactive-programming in Java & Spring x4
+- **#DevWork** Read through the code of @**[AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)** and submit x0/x1 **#OpenSrc** contribution around the same x8
+- **#CSec** Working towards my first CTF x0/x1 x24
+- **#Work** x40
+  - Provide support for recently delivered feature and take it up to production
+  - Resolve two existing bugs
+  - #BullShite mgmt work
 
-**Fun fact🤔**: I freaking love beer🍺 with a big lemon slice🍋... And can't live or work without a dose of music daily🎶🎵.
+> _**Finished recently:**_ 14th April 2023(from 1st April 2023)
+
+- ~~**#InterviewPrep**: x5/x16 design-topics(LLD&HLD)/DSA questions @[`mount-kronos`](https://github.com/everrover/mount-kronos)~~
+  - ~~Desgined the LLD and HLD for a feature at work w.r.t. existing Search functionality(delivered as well😏~~
+  - ~~Resolved x4/x4 DSA questions~~ x8
+    - #Comments: I'm rusty for doing it after so long
+- **#DevWork** Learning about reactive-programming in Java & Spring
+- ~~**#DevWork #Unplanned** Read through the code of @**[AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)** in preparation of **#OpenSrc** contribution towards it~~ x3
+- **#CSec** Working towards my first CTF
+- **#Work #Unplanned** x68(without #BS mgmt work, that's extra)
+  - ~~Built and delivered one requested feature @Work with two additional guys(one of my team and one of others)~~
+  - ~~Resolved three bugs(one took me x24 alone, turned out fault was on other team)~~
+
+**Fun fact🤔**: I freaking love beer🍺 with a big lemon slice🍋... In fact I love lemon with everything. And can't live or work without a dose of music daily🎶🎵.
 
 **Recent achievement🏆**: Got promoted to Sr. Software Engineer... can't stop thinking abt it😏
 
-_P.S. I'm currently drawing out alot...🎨_
+_P.S. I'm currently drawing out alot...🎨_ And x7 means 7 hours of effort
 
 Do visit my [website](https://everrover.com)(scrapped for now😢). Also, you can find me on [LinkedIn](https://in.linkedin.com/in/abhishek-deyol-44a732171), [Twitter](https://twitter.com/everrover) and [Instagram](https://www.instagram.com/everrover).
 <!-- An event-driven chat application: [`smiling-octopus`](https://github.com/everrover/smiling-octopus). Looking forward to collaborate on it.😁 -->
