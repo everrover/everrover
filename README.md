@@ -4,15 +4,15 @@
 
 > _**Deadline:**_ 23rd April 2023
 
-- **#InterviewPrep**: x0/x8 design-topics(LLD&HLD)/DSA questions @[`mount-kronos`](https://github.com/everrover/mount-kronos) x8
+- **#InterviewPrep**: x2/x8 design-topics(LLD&HLD)/DSA questions @[`mount-kronos`](https://github.com/everrover/mount-kronos) x8
 - **#DevWork** Learn about reactive-programming in Java & Spring x4
 - **#DevWork** Read through the code of @**[AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)** and submit x0/x1 **#OpenSrc** contribution around the same x8
 - **#CSec** Working towards my first CTF x0/x1 x24
-- ~~**#Work** x40~~ x63
+- ~~**#Work** x40~~ x64
   - Provide support for recently delivered feature and take it up to production
   - Resolve two existing bugs
   - #BullShite mgmt work
-- ~~**#TechWriting**~~ :: The state of AI, what essentially it is and why it's scary😱 x2
+- ~~**#TechWriting** :: The state of AI, what essentially it is and why it's scary😱~~ x3.30
 
 > _**Finished recently:**_ 14th April 2023(from 1st April 2023)
 
