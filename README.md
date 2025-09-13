@@ -4,12 +4,12 @@ I'm a Software Engineer👨🏻‍💻 with a deep-rooted interest in building s
 
 I am keenly interested in the intersection of business and technology, and I intend to keep learning about it and hence utilize my expertise, skills and knowledge to create a profound impact... wherever I get the chance to work.
 
-**Recent achievement🏆**: Learnt **Golang** a few days back for some new project.
+**Recent achievement🏆**: Learnt about @Oracle's tech stack😉.
 
 **Recent write-ups**: [ascreous-mons](https://github.com/everrover/ascreous-mons)
 
-**Fun fact🤔**: I am currently learning about Cybersecurity via CTFs, Malware-development, and research work. Let's collaborate if needed.
+**Fun fact🤔**: I am currently learning about Cybersecurity via CTFs, Malware-development and research work. Let's collaborate if needed.
 
-Do visit my [website](https://everrover.com). Also, you can find me on [LinkedIn](https://in.linkedin.com/in/abhishek-deyol-44a732171), [Twitter](https://x.com/everrover) and [Instagram](https://www.instagram.com/everrover).
+Do visit my [website](https://everrover.com). Also, you can find me on [LinkedIn](https://in.linkedin.com/in/abhishek-deyol), [Twitter](https://x.com/everrover) and [Instagram](https://www.instagram.com/everrover).
 
-Several repositories I work on are private. Plz ping me over [LinkedIn](https://in.linkedin.com/in/abhishek-deyol-44a732171) to discuss those if needed. I'll be adding the description and their titles on a [web-file](https://everrover.github.com/private-repos.html).
+Several repositories I work on are private. Plz ping me over [LinkedIn](https://in.linkedin.com/in/abhishek-deyol) to discuss those if needed. I'll be adding the description and their titles on a [web-file](https://everrover.github.com/private-repos.html).
